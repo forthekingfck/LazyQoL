@@ -1,0 +1,16 @@
+[
+{
+  "modid": "LazyQoL",
+  "name": "LazyQoL",
+  "description": "Just SkyBlock QoL mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["suyako"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
